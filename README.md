@@ -1,3 +1,4 @@
 # B3-Devops
 
 TP1 : [WIK-DPS-TP01](./WIK-DPS-TP01/)
+TP2 : [WIK-DPS-TP02](./WIK-DPS-TP02/)
