@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: my-pod
+spec:
+  containers:
+  - name: tp4
+    image: registry.cluster.wik.cloud/public/echo
+    ports:
+    - containerPort: 8080
