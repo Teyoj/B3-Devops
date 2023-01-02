@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+apiVersion: v2
+appVersion: 1.16.0
+description: A Helm chart for Kubernetes
+name: api
+type: application
+version: 0.1.0
+
+...
+files:
+  api-0.1.0.tgz: sha256:5a6bdd1bd75bbf03226b06f26fb12d65c9a533e1018d55ac31e47b28c7526095
+-----BEGIN PGP SIGNATURE-----
+
+wsDcBAEBCgAQBQJjsrySCRD5U7ShtU4ZNgAAm2oMABofw0GoZzw94vfq80bpnHnM
+CYM8Q+j3Gv6QT55G5+U55zejJYvdLlCpZAc5HbaG24rLkoGdugFklT0GNZ9jrw8A
+fZHY1qMwBu2ab1zebFeA9QzehubDfNcS97sawWTxou/65U/NKCuf8rmWPqiKsWnY
+/g35ZMbs6dLXYVvQrrQ0259yVdrl/HBZiuTtZs8r5Hh+AAIr/KBao34UeMZnsX3Y
+FG/cKV02NukxjJURg8DW4XyxdDI8VQYbxgcZYlBoHanRby/V6G5b/oi7Cx2OT7Kv
+p650U8udsiK6btEGqhg6yq5kbjSlOHjaXIY+b5kkuTG5Gq6pB8MU4aVFQ34CTjEN
+pKxqATo647/hgebVzxinEU/W7A+0q1rE7wTg+PPGsl+7X1Sz0dfiADpm7EjMelVw
+7QIq+LAiiAw1OYzlsPWjPHDymW1NWtfB3aw5Azgsgptm6TfnpwvEwMn4mpX8Z22B
+DirbtEbHBxTUcZVeBua54I6Z2qghBHltJN4mHwAJ2w==
+=4pNv
+-----END PGP SIGNATURE-----
